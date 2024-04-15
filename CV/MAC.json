@@ -1,0 +1,246 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Artur",
+      "surnames": "Mirabet",
+      "title": "Front End Developer",
+      "description": "Metódico y exigente, disfruto con mi trabajo en un entorno de eustrés y buen ambiente dónde hacer crecer, junto a mis compañeros, productos digitales que aporten valor al usuario final.\n· Amplia experiencia en entorno .NET.\n· Background de diseño y cómodo en escenarios de UX.\n· Visión final de producto y foco en el usuario.\n· Disfruto con las metodologías de desarrollo.\n· Amo el trabajo en equipo y soy una persona empática.\n· Mente creativa y capacidad resolutiva.\n\n🌱🪴🌳",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/15/5b74655a-7643-4a4d-a121-8969d92514ba_linkedin-photo-60519.linkedin-photo-60519",
+        "alt": "24/04/15/5b74655a-7643-4a4d-a121-8969d92514ba_linkedin-photo-60519.linkedin-photo-60519"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJR7wL1XaYpBIR7EoGAtgHJ0Y)",
+        "country": "España",
+        "region": "Cataluña"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/amirabet"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/amirabet"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Eurofirms Group | People first",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/15/d2679e33-2195-481a-8a88-67b6d8861a83_linkedin-photo-60519.linkedin-photo-60519",
+            "alt": "24/04/15/d2679e33-2195-481a-8a88-67b6d8861a83_linkedin-photo-60519.linkedin-photo-60519"
+          }
+        },
+        "roles": [
+          {
+            "name": ".NET Front End Developer",
+            "startDate": "2022-03-01",
+            "challenges": [
+              {
+                "description": "He apostado por la tecnología Blazor y por este equipo de IT en un nuevo entorno con gran crecimiento profesional.\n\n· Desarrollo de Módulos para un ERP online utilizando Blazor.\n· Creación de una librería de componentes sin dependencias de terceros.\n· Implementación de los prototipos de Figma proporcionados por el departamento de UI/UX.\n· Entrega de código de valor siguiendo patrones, principios SOLID y revisión continua en un ecosistema Git.\n· Metodologías Agile de desarrollo. Rituales de Scrum. Guild de FrontEnd.\n· Azure DevOps: CI / CD y Pipelines, NuGets, NPM...\n· Mentoría de un perfil junior.\n\nEste paso profesional me ha permitido conocer e integrarme en un gran departamento de IT de más de 100 miembros, con metodologías rigurosas y bien definidas, un equipo humano de gran valor y un ambiente laboral de gran calidad y alto rendimiento."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "DRAGCLIC, SL",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/15/8280c369-ec3b-454d-a8b3-2c2a71dfd4a0_linkedin-photo-60519.linkedin-photo-60519",
+            "alt": "24/04/15/8280c369-ec3b-454d-a8b3-2c2a71dfd4a0_linkedin-photo-60519.linkedin-photo-60519"
+          }
+        },
+        "roles": [
+          {
+            "name": "Front End Developer - UX/UI",
+            "startDate": "2016-02-01",
+            "finishDate": "2022-02-28",
+            "challenges": [
+              {
+                "description": "El producto desarrollado por esta Startup -un ERP online para cuerpos de seguridad- requería de una entrega rápida y constante, con gran fiabilidad y capaz de resolver un amplio abanico de problemas.\n\n· Desarrollo de Módulos para un ERP online basado en MVC / Razor Pages.\n· Funciones de Diseño y Usabilidad UI/UX.\n· Uso intensivo de la API de Google Maps.\n· Mobile App: Maquetación de Views en Android Studio.\n\nEsta posición supuso el primer compromiso de larga duración con un producto webApp dentro de un equipo de desarrollo, dónde descubrí el placer del trabajo en equipo, gracias a un plantel humano de gran valor y conocí la satisfacción de colaborar en hacer crecer un producto digital."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "am Web"
+        },
+        "roles": [
+          {
+            "name": "Branding, Web y Marketing Online",
+            "startDate": "2009-09-01",
+            "finishDate": "2015-12-31",
+            "challenges": [
+              {
+                "description": "Durante varios años me dediqué como freelance a gestionar la Identidad y la Comunicación de varias PYMEs.\n\n· Identidad e Imagen Corporativa.\n· Diseño, desarrollo y mantenimiento web.\n· Marketing online: SEO, creación de contenidos, Redes Sociales."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Chiky Digital"
+        },
+        "roles": [
+          {
+            "name": "Diseñador Gráfico",
+            "startDate": "2007-09-01",
+            "finishDate": "2009-06-30",
+            "challenges": [
+              {
+                "description": "Tareas de diseño, maquetación y pre-impresión para la producción de aplicaciones y soportes publicitarios de gran formato"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "CA",
+        "fullName": "Catalán / Valenciano",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".Net Core",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Blazor",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MVC",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Licenciado, Bellas Artes",
+        "startDate": "2000-09-01",
+        "institution": {
+          "name": "Universitat de Barcelona",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/15/afdf6c75-582c-498a-add4-8d1eb004623a_linkedin-photo-60519.linkedin-photo-60519",
+            "alt": "24/04/15/afdf6c75-582c-498a-add4-8d1eb004623a_linkedin-photo-60519.linkedin-photo-60519"
+          }
+        },
+        "finishDate": "2005-09-30"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Licenciado, Bellas Artes",
+        "startDate": "2004-01-01",
+        "institution": {
+          "name": "Universidad de Castilla-La Mancha",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/15/796ae1ef-0989-47e7-a951-81b105cafc07_linkedin-photo-60519.linkedin-photo-60519",
+            "alt": "24/04/15/796ae1ef-0989-47e7-a951-81b105cafc07_linkedin-photo-60519.linkedin-photo-60519"
+          }
+        },
+        "finishDate": "2005-01-01"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/amirabet",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/amirabet",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "mirabet@artur.es"
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "Blazor",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Frontend Developer"
+      ]
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": ".NET",
+        "type": "technology"
+      },
+      {
+        "name": ".Net Core",
+        "type": "technology"
+      },
+      {
+        "name": "Blazor",
+        "type": "technology"
+      },
+      {
+        "name": "MVC",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "> ###El mejor trabajo del mundo\n\nMe gusta la idea sumarme a un equipo dónde hacer crecer uno o varios productos con los que tengamos un compromiso a largo plazo y dónde podamos aplicar buenas prácticas de código para hacerlos evolucionar de forma óptima.\n\nDisfruto del equipo y valoro mucho un buen ambiente dónde reine la motivación por el  trabajo bien hecho, partiendo siempre de una sinergia posititva entre los miembros del equipo y con los otros departamentos.\n\nSoy un jugador de equipo y he tutorizado perfiles junior.\n\nCuando todo esto fluye, ¡tenemos el mejor trabajo del mundo! \n\n🌱🪴🌳"
+  }
+}
